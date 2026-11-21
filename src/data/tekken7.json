@@ -1,0 +1,410 @@
+[
+  {
+    "id": "t7-akuma",
+    "name": "Akuma",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/akuma.webp",
+    "available": true
+  },
+  {
+    "id": "t7-alisa-bosconovitch",
+    "name": "Alisa Bosconovitch",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/alisa-bosconovitch.webp",
+    "available": true
+  },
+  {
+    "id": "t7-anna-williams",
+    "name": "Anna Williams",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/anna-williams.webp",
+    "available": true
+  },
+  {
+    "id": "t7-armor-king",
+    "name": "Armor King",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/armor-king.webp",
+    "available": true
+  },
+  {
+    "id": "t7-asuka-kazama",
+    "name": "Asuka Kazama",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/asuka-kazama.webp",
+    "available": true
+  },
+  {
+    "id": "t7-bob",
+    "name": "Bob",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/bob.webp",
+    "available": true
+  },
+  {
+    "id": "t7-bryan-fury",
+    "name": "Bryan Fury",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/bryan-fury.webp",
+    "available": true
+  },
+  {
+    "id": "t7-claudio-serafino",
+    "name": "Claudio Serafino",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/claudio-serafino.webp",
+    "available": true
+  },
+  {
+    "id": "t7-devil-jin",
+    "name": "Devil Jin",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/devil-jin.webp",
+    "available": true
+  },
+  {
+    "id": "t7-dragunov",
+    "name": "Dragunov",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/dragunov.webp",
+    "available": true
+  },
+  {
+    "id": "t7-eddy-gordo",
+    "name": "Eddy Gordo",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/eddy-gordo.webp",
+    "available": true
+  },
+  {
+    "id": "t7-eliza",
+    "name": "Eliza",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/eliza.webp",
+    "available": true
+  },
+  {
+    "id": "t7-feng-wei",
+    "name": "Feng Wei",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/feng-wei.webp",
+    "available": true
+  },
+  {
+    "id": "t7-ganryu",
+    "name": "Ganryu",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/ganryu.webp",
+    "available": true
+  },
+  {
+    "id": "t7-gigas",
+    "name": "Gigas",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/gigas.webp",
+    "available": true
+  },
+  {
+    "id": "t7-geese-howard",
+    "name": "Geese Howard",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/geese-howard.webp",
+    "available": true
+  },
+  {
+    "id": "t7-heihachi-mishima",
+    "name": "Heihachi Mishima",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/heihachi-mishima.webp",
+    "available": true
+  },
+  {
+    "id": "t7-hwoarang",
+    "name": "Hwoarang",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/hwoarang.webp",
+    "available": true
+  },
+  {
+    "id": "t7-jack-7",
+    "name": "Jack-7",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/jack-7.webp",
+    "available": true
+  },
+  {
+    "id": "t7-jin-kazama",
+    "name": "Jin Kazama",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/jin-kazama.webp",
+    "available": true
+  },
+  {
+    "id": "t7-josie-rizal",
+    "name": "Josie Rizal",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/josie-rizal.webp",
+    "available": true
+  },
+  {
+    "id": "t7-julia-chang",
+    "name": "Julia Chang",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/julia-chang.webp",
+    "available": true
+  },
+  {
+    "id": "t7-katarina-alves",
+    "name": "Katarina Alves",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/katarina-alves.webp",
+    "available": true
+  },
+  {
+    "id": "t7-kazumi-mishima",
+    "name": "Kazumi Mishima",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/kazumi-mishima.webp",
+    "available": true
+  },
+  {
+    "id": "t7-kazuya-mishima",
+    "name": "Kazuya Mishima",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/kazuya-mishima.webp",
+    "available": true
+  },
+  {
+    "id": "t7-king",
+    "name": "King",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/king.webp",
+    "available": true
+  },
+  {
+    "id": "t7-kuma",
+    "name": "Kuma",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/kuma.webp",
+    "available": true
+  },
+  {
+    "id": "t7-lars-alexandersson",
+    "name": "Lars Alexandersson",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/lars-alexandersson.webp",
+    "available": true
+  },
+  {
+    "id": "t7-marshall-law",
+    "name": "Marshall Law",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/marshall-law.webp",
+    "available": true
+  },
+  {
+    "id": "t7-lee-chaolan",
+    "name": "Lee Chaolan",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/lee-chaolan.webp",
+    "available": true
+  },
+  {
+    "id": "t7-leo",
+    "name": "Leo",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/leo.webp",
+    "available": true
+  },
+  {
+    "id": "t7-lili",
+    "name": "Lili",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/lili.webp",
+    "available": true
+  },
+  {
+    "id": "t7-lucky-chloe",
+    "name": "Lucky Chloe",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/lucky-chloe.webp",
+    "available": true
+  },
+  {
+    "id": "t7-craig-marduk",
+    "name": "Craig Marduk",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/craig-marduk.webp",
+    "available": true
+  },
+  {
+    "id": "t7-master-raven",
+    "name": "Master Raven",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/master-raven.webp",
+    "available": true
+  },
+  {
+    "id": "t7-miguel",
+    "name": "Miguel",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/miguel.webp",
+    "available": true
+  },
+  {
+    "id": "t7-negan",
+    "name": "Negan",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/negan.webp",
+    "available": true
+  },
+  {
+    "id": "t7-nina-williams",
+    "name": "Nina Williams",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/nina-williams.webp",
+    "available": true
+  },
+  {
+    "id": "t7-noctis-lucis-caelum",
+    "name": "Noctis Lucis Caelum",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/noctis-lucis-caelum.webp",
+    "available": true
+  },
+  {
+    "id": "t7-panda",
+    "name": "Panda",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/panda.webp",
+    "available": true
+  },
+  {
+    "id": "t7-paul-phoenix",
+    "name": "Paul Phoenix",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/paul-phoenix.webp",
+    "available": true
+  },
+  {
+    "id": "t7-shaheen",
+    "name": "Shaheen",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/shaheen.webp",
+    "available": true
+  },
+  {
+    "id": "t7-steve-fox",
+    "name": "Steve Fox",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/steve-fox.webp",
+    "available": true
+  },
+  {
+    "id": "t7-ling-xiaoyu",
+    "name": "Ling Xiaoyu",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/ling-xiaoyu.webp",
+    "available": true
+  },
+  {
+    "id": "t7-yoshimitsu",
+    "name": "Yoshimitsu",
+    "game": "tekken7",
+    "category": "base",
+    "portrait": "/assets/characters/tekken7/yoshimitsu.webp",
+    "available": true
+  },
+  {
+    "id": "t7-zafina",
+    "name": "Zafina",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/zafina.webp",
+    "available": true
+  },
+  {
+    "id": "t7-lei-wulong",
+    "name": "Lei Wulong",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/lei-wulong.webp",
+    "available": true
+  },
+  {
+    "id": "t7-leroy-smith",
+    "name": "Leroy Smith",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/leroy-smith.webp",
+    "available": true
+  },
+  {
+    "id": "t7-fahkumram",
+    "name": "Fahkumram",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/fahkumram.webp",
+    "available": true
+  },
+  {
+    "id": "t7-kunimitsu",
+    "name": "Kunimitsu",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/kunimitsu.webp",
+    "available": true
+  },
+  {
+    "id": "t7-lidia-sobieska",
+    "name": "Lidia Sobieska",
+    "game": "tekken7",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken7/lidia-sobieska.webp",
+    "available": true
+  }
+]

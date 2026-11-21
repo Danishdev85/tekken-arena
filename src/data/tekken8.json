@@ -1,0 +1,346 @@
+[
+  {
+    "id": "t8-alisa-bosconovitch",
+    "name": "Alisa Bosconovitch",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/alisa-bosconovitch.webp",
+    "available": true
+  },
+  {
+    "id": "t8-anna-williams",
+    "name": "Anna Williams",
+    "game": "tekken8",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken8/anna-williams.webp",
+    "available": true
+  },
+  {
+    "id": "t8-armor-king",
+    "name": "Armor King",
+    "game": "tekken8",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken8/armor-king.webp",
+    "available": true
+  },
+  {
+    "id": "t8-asuka-kazama",
+    "name": "Asuka Kazama",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/asuka-kazama.webp",
+    "available": true
+  },
+  {
+    "id": "t8-azucena-milagros-ortiz-castillo",
+    "name": "Azucena Milagros Ortiz Castillo",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/azucena-milagros-ortiz-castillo.webp",
+    "available": true
+  },
+  {
+    "id": "t8-bob",
+    "name": "Bob",
+    "game": "tekken8",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken8/bob.webp",
+    "available": true
+  },
+  {
+    "id": "t8-bryan-fury",
+    "name": "Bryan Fury",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/bryan-fury.webp",
+    "available": true
+  },
+  {
+    "id": "t8-clive-rosfield",
+    "name": "Clive Rosfield",
+    "game": "tekken8",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken8/clive-rosfield.webp",
+    "available": true
+  },
+  {
+    "id": "t8-claudio-serafino",
+    "name": "Claudio Serafino",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/claudio-serafino.webp",
+    "available": true
+  },
+  {
+    "id": "t8-devil-jin",
+    "name": "Devil Jin",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/devil-jin.webp",
+    "available": true
+  },
+  {
+    "id": "t8-dragunov",
+    "name": "Dragunov",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/dragunov.webp",
+    "available": true
+  },
+  {
+    "id": "t8-eddy-gordo",
+    "name": "Eddy Gordo",
+    "game": "tekken8",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken8/eddy-gordo.webp",
+    "available": true
+  },
+  {
+    "id": "t8-fahkumram",
+    "name": "Fahkumram",
+    "game": "tekken8",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken8/fahkumram.webp",
+    "available": true
+  },
+  {
+    "id": "t8-feng-wei",
+    "name": "Feng Wei",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/feng-wei.webp",
+    "available": true
+  },
+  {
+    "id": "t8-heihachi-mishima",
+    "name": "Heihachi Mishima",
+    "game": "tekken8",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken8/heihachi-mishima.webp",
+    "available": true
+  },
+  {
+    "id": "t8-hwoarang",
+    "name": "Hwoarang",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/hwoarang.webp",
+    "available": true
+  },
+  {
+    "id": "t8-jack-8",
+    "name": "Jack-8",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/jack-8.webp",
+    "available": true
+  },
+  {
+    "id": "t8-jin-kazama",
+    "name": "Jin Kazama",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/jin-kazama.webp",
+    "available": true
+  },
+  {
+    "id": "t8-jun-kazama",
+    "name": "Jun Kazama",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/jun-kazama.webp",
+    "available": true
+  },
+  {
+    "id": "t8-kazuya-mishima",
+    "name": "Kazuya Mishima",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/kazuya-mishima.webp",
+    "available": true
+  },
+  {
+    "id": "t8-king",
+    "name": "King",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/king.webp",
+    "available": true
+  },
+  {
+    "id": "t8-kuma",
+    "name": "Kuma",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/kuma.webp",
+    "available": true
+  },
+  {
+    "id": "t8-kunimitsu",
+    "name": "Kunimitsu",
+    "game": "tekken8",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken8/kunimitsu.webp",
+    "available": true
+  },
+  {
+    "id": "t8-lars-alexandersson",
+    "name": "Lars Alexandersson",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/lars-alexandersson.webp",
+    "available": true
+  },
+  {
+    "id": "t8-marshall-law",
+    "name": "Marshall Law",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/marshall-law.webp",
+    "available": true
+  },
+  {
+    "id": "t8-lee-chaolan",
+    "name": "Lee Chaolan",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/lee-chaolan.webp",
+    "available": true
+  },
+  {
+    "id": "t8-leo",
+    "name": "Leo",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/leo.webp",
+    "available": true
+  },
+  {
+    "id": "t8-leroy-smith",
+    "name": "Leroy Smith",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/leroy-smith.webp",
+    "available": true
+  },
+  {
+    "id": "t8-lidia-sobieska",
+    "name": "Lidia Sobieska",
+    "game": "tekken8",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken8/lidia-sobieska.webp",
+    "available": true
+  },
+  {
+    "id": "t8-lili",
+    "name": "Lili",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/lili.webp",
+    "available": true
+  },
+  {
+    "id": "t8-ling-xiaoyu",
+    "name": "Ling Xiaoyu",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/ling-xiaoyu.webp",
+    "available": true
+  },
+  {
+    "id": "t8-miary-zo",
+    "name": "Miary Zo",
+    "game": "tekken8",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken8/miary-zo.webp",
+    "available": true
+  },
+  {
+    "id": "t8-nina-williams",
+    "name": "Nina Williams",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/nina-williams.webp",
+    "available": true
+  },
+  {
+    "id": "t8-panda",
+    "name": "Panda",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/panda.webp",
+    "available": true
+  },
+  {
+    "id": "t8-paul-phoenix",
+    "name": "Paul Phoenix",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/paul-phoenix.webp",
+    "available": true
+  },
+  {
+    "id": "t8-raven",
+    "name": "Raven",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/raven.webp",
+    "available": true
+  },
+  {
+    "id": "t8-reina",
+    "name": "Reina",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/reina.webp",
+    "available": true
+  },
+  {
+    "id": "t8-roger-jr",
+    "name": "Roger Jr.",
+    "game": "tekken8",
+    "category": "dlc",
+    "portrait": "/assets/characters/tekken8/roger-jr.webp",
+    "available": true
+  },
+  {
+    "id": "t8-shaheen",
+    "name": "Shaheen",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/shaheen.webp",
+    "available": true
+  },
+  {
+    "id": "t8-steve-fox",
+    "name": "Steve Fox",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/steve-fox.webp",
+    "available": true
+  },
+  {
+    "id": "t8-victor-chevalier",
+    "name": "Victor Chevalier",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/victor-chevalier.webp",
+    "available": true
+  },
+  {
+    "id": "t8-yoshimitsu",
+    "name": "Yoshimitsu",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/yoshimitsu.webp",
+    "available": true
+  },
+  {
+    "id": "t8-zafina",
+    "name": "Zafina",
+    "game": "tekken8",
+    "category": "base",
+    "portrait": "/assets/characters/tekken8/zafina.webp",
+    "available": true
+  }
+]
