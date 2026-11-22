@@ -67,16 +67,16 @@ public/assets/characters/tekken7|tekken8/   (portrait drop-in folders)
 
 ## Character portraits & attribution
 
-This repository ships **without character artwork**. Portrait paths follow the pattern:
+The character portraits included in this repository are official Tekken 7 and Tekken 8 artwork, **© Bandai Namco Entertainment Inc.**, sourced from the [Tekken Wiki](https://tekken.fandom.com). All rights to these images belong to Bandai Namco Entertainment Inc. and their respective owners. They are included only for this unofficial, non-commercial fan project; no ownership or rights over them are claimed. If you are a rights holder and would like them removed, please open an issue and they will be taken down promptly.
+
+Portrait paths follow the pattern:
 
 ```
 /assets/characters/tekken7/<fighter-slug>.webp
 /assets/characters/tekken8/<fighter-slug>.webp
 ```
 
-To add portraits, place properly licensed, permitted or otherwise authorized WebP images with those file names in `public/assets/characters/tekken7/` or `public/assets/characters/tekken8/`. They are picked up automatically. Any fighter without an image shows a designed placeholder (initials on a dark card in the game's accent color) — the interface never shows a broken image.
-
-Do not scrape or redistribute copyrighted game artwork. If you use fan art or screenshots, credit the creators here and make sure you have the right to use them.
+Any fighter without an image shows a designed placeholder (initials on a dark card in the game's accent color) — the interface never shows a broken image.
 
 To update a roster (for example when a new DLC fighter releases), edit `src/data/tekken7.json` or `src/data/tekken8.json`: add an entry with a unique `id`, `name`, `game`, `category` (`base` or `dlc`), `portrait` path and `available: true`.
 
